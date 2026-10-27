@@ -8,8 +8,11 @@ __pycache__/
 fp-info-cache
 *.kicad_prl
 _autosave-*
+*.lck
+*.kicad_pcb-bak
 
 # LTspice
 *.raw
 *.log
 *.op.raw
+!ltspice/data/*.log

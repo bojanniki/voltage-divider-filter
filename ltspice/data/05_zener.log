@@ -1,0 +1,32 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\Users\bojan\Desktop\Projects\voltage-divider-filter\ltspice\05_zener.net
+Start Time: Sun Oct 25 13:12:58 2026
+Options:reltol=1e-6
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+reltol = 1e-06
+.step nbv=1
+.step nbv=2
+.step nbv=3
+Total elapsed time: 0.263 seconds.
+Total iterations: 15
+
+Files loaded:
+C:\Users\bojan\Desktop\Projects\voltage-divider-filter\ltspice\05_zener.net
+C:\Users\bojan\AppData\Local\LTspice\lib\cmp\standard.dio
+
+
+Measurement: vout
+  step	V(vout)	at
+     1	4.36363601685	9.6
+     2	4.36345720291	9.6
+     3	4.34699773788	9.6
+
+Measurement: id1
+  step	I(D1)	at
+     1	-5.36466444184e-12	9.6
+     2	-3.28164917462e-09	9.6
+     3	-3.05044039806e-07	9.6
