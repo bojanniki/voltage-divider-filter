@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"100n";;;
+2;"D1";"D_DO-35_SOD27_P7.62mm_Horizontal";1;"BZX55C5V1";;;
+3;"J1";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";1;"BAT_IN";;;
+4;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"OUT";;;
+5;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"120k";;;
+6;"R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"100k";;;
+7;"TP1";"TestPoint_THTPad_D2.0mm_Drill1.0mm";1;"BAT+";;;
+8;"TP2";"TestPoint_THTPad_D2.0mm_Drill1.0mm";1;"VOUT";;;
+9;"TP3";"TestPoint_THTPad_D2.0mm_Drill1.0mm";1;"GND";;;
